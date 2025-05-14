@@ -52,6 +52,7 @@ source venv/bin/activate  # For Windows: venv\Scripts\activate
 4. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+exit
 
 You may need to create a requirements.txt file with the necessary packages (e.g., pandas, numpy, sklearn, tensorflow, etc.).
 
