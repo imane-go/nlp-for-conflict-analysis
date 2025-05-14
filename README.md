@@ -9,8 +9,8 @@ The project is organized as follows:
 <p>nlp-for-conflict-analysis/<br>
 <ol> 
 ├── data/ # Contains datasets (raw and processed)
-│ ├── raw/ # Raw data (e.g., comments CSVs)<br>
-│ └── processed/ # Processed data ready for analysis<br>
+│ ├── <li> raw/ # Raw data (e.g., comments CSVs) </li>
+│ └── <li> processed/ # Processed data ready for analysis </li>
 │
 ├── notebooks/ # Jupyter notebooks for exploration and analysis</ol>
 │
