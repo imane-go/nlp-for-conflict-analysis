@@ -9,8 +9,8 @@ The project is organized as follows:
 <p>nlp-for-conflict-analysis/<br>
 <ol> 
 ├── data/ # Contains datasets (raw and processed)
-<li>│ ├──  raw/ # Raw data (e.g., comments CSVs) </li>
-<li>│ └── processed/ # Processed data ready for analysis </li>
+│ ├──  raw/ # Raw data (e.g., comments CSVs)
+└── processed/ # Processed data ready for analysis 
 │
 ├── notebooks/ # Jupyter notebooks for exploration and analysis</ol>
 │
@@ -44,7 +44,7 @@ Ensure that you have the following installed:
    
 2. Navigate to the project directory:
    ```bash
-cd nlp-for-conflict-analysis
+   cd nlp-for-conflict-analysis
 4. Set up a virtual environment (optional but recommended):
 ```bash
 python -m venv venv
