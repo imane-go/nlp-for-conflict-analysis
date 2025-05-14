@@ -46,9 +46,9 @@ Ensure that you have the following installed:
    ```bash
    cd nlp-for-conflict-analysis
 3. Set up a virtual environment (optional but recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # For Windows: venv\Scripts\activate
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # For Windows: venv\Scripts\activate
 4. Install the required dependencies:
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
