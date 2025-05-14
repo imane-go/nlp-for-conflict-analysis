@@ -6,24 +6,24 @@ This project explores the use of Natural Language Processing (NLP) techniques, p
 
 The project is organized as follows:
 
-nlp-for-conflict-analysis/
+<p>nlp-for-conflict-analysis/<br>
 │
-├── data/ # Contains datasets (raw and processed)
-│ ├── raw/ # Raw data (e.g., comments CSVs)
-│ └── processed/ # Processed data ready for analysis
+├── data/ # Contains datasets (raw and processed)<br>
+│ ├── raw/ # Raw data (e.g., comments CSVs)<br>
+│ └── processed/ # Processed data ready for analysis<br>
 │
-├── notebooks/ # Jupyter notebooks for exploration and analysis
+├── notebooks/ # Jupyter notebooks for exploration and analysis<br>
 │
-├── src/ # Python scripts for preprocessing and analysis
-│ ├── data_preprocessing.py # Data cleaning and preparation
-│ ├── tfidf_analysis.py # TF-IDF vectorization and analysis
-│ └── bert_analysis.py # BERT-based analysis (to be added later)
+├── src/ # Python scripts for preprocessing and analysis<br>
+│ ├── data_preprocessing.py # Data cleaning and preparation<br>
+│ ├── tfidf_analysis.py # TF-IDF vectorization and analysis<br>
+│ └── bert_analysis.py # BERT-based analysis (to be added later)<br>
 │
-├── outputs/ # Results and outputs
-│ ├── figures/ # Figures generated during analysis
-│ └── reports/ # Generated reports from analysis
+├── outputs/ # Results and outputs<br>
+│ ├── figures/ # Figures generated during analysis<br>
+│ └── reports/ # Generated reports from analysis<br>
 │
-└── README.md # Project documentation (this file)
+└── README.md # Project documentation (this file)</p>
 
 ## Getting Started
 
