@@ -7,8 +7,8 @@ This project explores the use of Natural Language Processing (NLP) techniques, p
 The project is organized as follows:
 
 <p>nlp-for-conflict-analysis/<br>
-│
-├── <ol> data/ # Contains datasets (raw and processed)
+<ol> 
+├── data/ # Contains datasets (raw and processed)
 │ ├── raw/ # Raw data (e.g., comments CSVs)<br>
 │ └── processed/ # Processed data ready for analysis<br>
 │
