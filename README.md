@@ -22,4 +22,4 @@ Ensure that you have the following installed:
 3. Set up a virtual environment (optional but recommended):
   ```bash
    python -m venv venv
-   source venv/bin/activate  # For Windows: venv\Scripts\activate
+   source venv/bin/activate  
