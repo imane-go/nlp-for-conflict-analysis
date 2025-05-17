@@ -7,7 +7,7 @@ This project explores the use of Natural Language Processing (NLP) techniques, p
 
 Ensure that you have the following installed:
 
-- Python 3.x
+- Python 3.3
 - pip (Python package installer)
 
 ### Installation
